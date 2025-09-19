@@ -74,3 +74,10 @@ proyecto. En proyectos más grandes, se usan múltiples ramas para trabajar en p
 -  **Commit:** Una "fotografía" de tus cambios en un momento dado, con un mensaje descriptivo.
 -  **Clonar (clone):** Descargar una copia de un repositorio remoto a tu computadora.
 -  **Push:** Enviar tus cambios confirmados desde tu repositorio local a GitHub.
+- **Pull**: Recibir los cambios más recientes desde GitHub a tu repositorio local. (Lo usarás más cuando
+colabores).
+- **README.md**: Un archivo que describe tu proyecto, qué hace y cómo usarlo. Se usa Markdown
+para darle formato.
+- **.gitignore**: Un archivo especial donde listas archivos o carpetas que Git debe ignorar y no rastrear
+(ej. archivos de configuración locales, archivos temporales). Esto ayuda a mantener tu repositorio
+limpio.
